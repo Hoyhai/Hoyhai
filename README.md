@@ -1,6 +1,6 @@
 - 👋 Hi, I’m X
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning ...
+- 🌱 I'm studying Computer Science.
 - 💞️ I live in Thailand.
 - 📫 How to reach me ...
 
