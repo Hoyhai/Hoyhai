@@ -3,7 +3,7 @@
 - 📖 I'm studying Computer Science at KU.
 - 🌎 I live on planet Earth.
 
-- ❤️🧡💜💙
+`❤️🧡💜💙`
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xssxx&show_icons=true&locale=en" alt="xssxx" /></p>
 
