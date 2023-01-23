@@ -7,7 +7,7 @@
 
 - ![](https://komarev.com/ghpvc/?username=xssxx&color=blue)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xssxx&show_icons=true&locale=en" alt="xssxx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xssxx&show_icons=true&locale=en" alt="xssxx" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xssxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -48,8 +48,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xssxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 koonx6520/koonx6520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
