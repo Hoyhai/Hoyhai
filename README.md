@@ -1,6 +1,6 @@
 - 👋 Hi, I’m X
 - 👀 I’m interested in programming.
-- 📖 I'm studying Computer Science at KU.
+- 📖 I'm studying Computer Science.
 - 🌎 I live on planet Earth.
 
 `❤️🧡💜💙`
