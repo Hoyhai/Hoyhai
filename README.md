@@ -3,8 +3,6 @@
 - 📖 I'm studying Computer Science.
 - 🌎 I live on planet Earth.
 
-`❤️💙💜💝💟`
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xssxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
