@@ -1,6 +1,6 @@
 - 👋 Hi, I’m X
 - 👀 I’m interested in programming.
-- 📖 I'm studying Computer Science (1st year).
+- 📖 I'm studying Computer Science (~Sophomore).
 - 🌎 I live on planet Earth.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xssxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
