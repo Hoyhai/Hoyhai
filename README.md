@@ -3,7 +3,7 @@
 - 📖 I'm studying Computer Science (~Sophomore).
 - 🌎 I live on planet Earth.
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xssxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xssxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xssxx&theme=nord_dark&exclude=HTML)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xssxx&theme=nord_dark&exclude=)
 
