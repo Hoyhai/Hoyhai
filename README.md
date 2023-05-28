@@ -3,11 +3,9 @@
 - 📖 I'm studying Computer Science (~Sophomore).
 - 🌎 I live on planet Earth.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xssxx&layout=compact&theme=)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xssxx&theme=&exclude=HTML)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xssxx&theme=nord_dark&exclude=) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xssxx&layout=compact&theme=&bg_color=FFFEFF&title_color=7F2D7E&text_color=7F2D7E)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xssxx&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xssxx&theme=&bg_color=FFFEFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 koonx6520/koonx6520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
