@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xssxx&layout=compact&theme=)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xssxx&bg_color=FFFDFF&line=2975dc&color=999fa5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xssxx&bg_color=FFFDFF&line=2975dc&color=999fa5&point=44e36e)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!---
