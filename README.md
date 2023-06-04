@@ -1,4 +1,4 @@
-- 👋 Hi, I’m X
+- 👋 Hi, I’m X.
 - 👀 I’m interested in programming.
 - 📖 I'm studying Computer Science (~Sophomore).
 - 🌎 I live on planet Earth.
