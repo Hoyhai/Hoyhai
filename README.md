@@ -10,10 +10,11 @@
 
 <table>
 <td>
- <p> Hi, I am X. </p>
- <p> I am currently studying computer science. </p>
- <p> I am interested in programming. </p>
+ <p> ⋆ 𝓗𝓲, 𝓘 𝓪𝓶 𝓧. </p>
+ <p> ⋆ I am currently studying computer science. </p>
+ <p> ⋆ I am interested in programming. </p>
 </td>
+<td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
 <td>
  <div>
   <img src="https://raw.githubusercontent.com/xssxx/xssxx/main/kirby.gif" style="width: 20rem" />
