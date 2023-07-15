@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/xssxx/xssxx/main/github-header-image.png)
+![Header](https://raw.githubusercontent.com/xssxx/xssxx/main/wallpaper.gif)
 
 - 👋 Hi, I’m X.
 - 👀 I’m interested in programming.
