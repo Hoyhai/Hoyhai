@@ -11,7 +11,7 @@
 
 <table>
 <td>
- <p> 🐰 𝓗𝓲, 𝓘 𝓪𝓶 𝓧. </p>
+ <p> 🐰 Hi, I am X. </p>
 </td>
 <td></td>
 <td>
