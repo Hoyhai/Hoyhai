@@ -10,7 +10,6 @@
 ### 𝐻𝐸𝐿𝐿𝒪 𝐸𝒱𝐸𝑅𝒴𝒪𝒩𝐸
 
 <table>
-<td></td>
 <td>
  <p> ⋆ 𝓗𝓲, 𝓘 𝓪𝓶 𝓧. </p>
  <p> ⋆ I am currently studying computer science. </p>
@@ -22,7 +21,6 @@
   <img src="https://raw.githubusercontent.com/xssxx/xssxx/main/kirby.gif" style="width: 20rem" />
  </div>
 </td>
-<td></td>
 </table>
 
 
