@@ -18,7 +18,7 @@
 <td></td>
 <td>
  <div>
-  <img src="https://raw.githubusercontent.com/xssxx/xssxx/main/kirby.gif" />
+  <img src="https://raw.githubusercontent.com/xssxx/xssxx/main/kirby.gif" style="width: 20rem" />
  </div>
 </td>
 </table>
